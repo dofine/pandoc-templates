@@ -191,6 +191,7 @@ $endif$
 $if(lof)$
 \listoffigures
 $endif$
+\clearpage
 $body$
 
 $if(natbib)$
