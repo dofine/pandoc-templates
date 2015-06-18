@@ -56,9 +56,11 @@ $if(toc)$
 $toc$
 </nav>
 $endif$
+<article class="markdown-body">
 $body$
 $for(include-after)$
 $include-after$
 $endfor$
+</article>
 </body>
 </html>
